@@ -26,6 +26,11 @@ _**Download all part and extracts.**_
 [Part4](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.004?raw=true)
 [Part5](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.005?raw=true)
 
+## License ##
+
+I
+take no credit for any of the underlying original code and styling, theme, plugins, preset or etc. Credit for
+that goes entirely to the original creator and developer.
 
 ## Supporting My Project
 
