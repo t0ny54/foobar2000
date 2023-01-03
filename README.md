@@ -15,7 +15,7 @@ _**The ultimate Foobar2000 portable to get you started.**_
 - Add Beefweb Remote Control for remote control via browser.
 - Searching and playing of YouTube video audio.
 - And many more...
-** Tips: change resampler mode and convolver file to get better music
+- **Tips: change resampler mode and convolver file to get better music
 
 
 _**Download all part and extracts.**_
