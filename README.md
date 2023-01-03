@@ -16,6 +16,15 @@ _**The ultimate Foobar2000 portable to get you started.**_
 - Searching and playing of YouTube video audio.
 - And many more
 
+
+_**Download all part and extracts.**_
+
+[Part1](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.001?raw=true)
+[Part2](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.002?raw=true)
+[Part3](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.003?raw=true)
+[Part4](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.004?raw=true)
+
+
 ## Supporting My Project
 
 If you are interested in supporting the project you can donate :
