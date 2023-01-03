@@ -14,7 +14,8 @@ _**The ultimate Foobar2000 portable to get you started.**_
 - Add more or less DSP chain serialization helper profiler (ex: Foobar2000 Dolby Headphone config).
 - Add Beefweb Remote Control for remote control via browser.
 - Searching and playing of YouTube video audio.
-- And many more
+- And many more...
+** Tips: change resampler mode and convolver file to get better music
 
 
 _**Download all part and extracts.**_
@@ -23,6 +24,7 @@ _**Download all part and extracts.**_
 [Part2](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.002?raw=true)
 [Part3](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.003?raw=true)
 [Part4](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.004?raw=true)
+[Part5](https://github.com/t0ny54/foobar2000/blob/main/foobar2000.7z.005?raw=true)
 
 
 ## Supporting My Project
