@@ -1,6 +1,6 @@
 # foobar2000 v1.5.11 Portable #
 
-![](https://github.com//foobar2000/blob/master/preview.png)
+![](https://github.com/t0ny54/foobar2000/blob/main/preview.jpg)
 
 _**The ultimate Foobar2000 portable to get you started.**_
 
