@@ -8,14 +8,14 @@ _**The ultimate Foobar2000 portable to get you started.**_
 
 - DarkOne v4 theme.
 - More plugins installed on foobar2000.
-- Add alot of IRs for convolver foobar2000 (rename *.irs to *.wav).
+- Add alot of IRs for convolver foobar2000 (need rename *.irs to *.wav).
 - Add Electri-Q Posihfopit edition, LeCab2 and NadIR VST.
 - Add alot of EQ Presets.
-- Add more or less DSP chain serialization helper profiler (ex: Foobar2000 Dolby Headphone config).
-- Add Beefweb Remote Control for remote control via browser.
+- Add more or less DSP chain serialization helper profiler (ex: Foobar2000 Dolby Headphone config, etc).
+- Add Beefweb Remote Control for foobar2000 remote control via browser.
 - Searching and playing of YouTube video audio.
-- And many more...
-- **Tips: change resampler mode and convolver file to get better music
+- And many more... 😀
+- **Tips: change resampler mode or resampler type and convolver file or convolver type to get better music experience 😉
 
 
 _**Download all part and extracts.**_
