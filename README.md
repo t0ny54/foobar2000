@@ -1,4 +1,4 @@
-# foobar2000 v1.5.11 Portable #
+# Foobar 2000 v1.5.11 Portable #
 
 ![](https://github.com/t0ny54/foobar2000/blob/main/preview.jpg)
 
@@ -9,7 +9,7 @@ _**The ultimate Foobar2000 portable to get you started.**_
 - DarkOne v4 theme.
 - More plugins installed on foobar2000.
 - Add alot of IRs for convolver foobar2000 (rename *.irs to *.wav).
-- Add Electri-Q Posihfopit edition, LeCab2,NadIR VST.
+- Add Electri-Q Posihfopit edition, LeCab2, NadIR VST.
 - Add alot of EQ Presets.
 - Add more or less DSP chain serialization helper profiler (ex: Foobar2000 Dolby Headphone config).
 - Add Beefweb Remote Control for remote control via browser.
